@@ -1,6 +1,6 @@
 atividade para add 0,5 pts na nota de Ap1
 Aluno: Michael Nascimento
 
-o item 6 da atividade seria um branch remoto? Fiz conforme a descrição da ativedade!
+O item 6 da atividade seria um branch remoto? Fiz conforme a descrição da atividade, mas criei tbm um remoto!
 
 Até breve
